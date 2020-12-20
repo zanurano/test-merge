@@ -1,2 +1,2 @@
-1. ini baris 1
-2. ini baris 2
+1. ini baris 1.
+2. ini baris 2.
